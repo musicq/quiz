@@ -1,0 +1,3 @@
+# workspace in react folder
+packages:
+  - "react/*"
